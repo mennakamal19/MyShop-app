@@ -1,6 +1,6 @@
 # myshop_app
 
-- RestFull APIS
+- RESTful APIs
 - clean architecture 
 - state mangent (bloc)
 
