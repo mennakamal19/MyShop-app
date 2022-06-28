@@ -2,6 +2,6 @@
 
 - RESTful APIs
 - clean architecture 
-- state mangent (bloc)
+- state management (bloc)
 
 # project GIF:
